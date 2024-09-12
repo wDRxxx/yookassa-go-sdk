@@ -1,7 +1,9 @@
 # Yookassa Go SDK
 
 ## Installation
-`go get github.com/wDRxxx/yookassa-go-sdk`
+```
+go get github.com/wDRxxx/yookassa-go-sdk
+```
 ## Usage example
 Use sdk according to [official documentation](https://yookassa.ru/developers/api?codeLang=bash&lang=ru)
 ```go
